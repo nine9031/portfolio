@@ -30,15 +30,15 @@ const FeaturedBox = () => {
       </div>
       <div className="social_icons">
         <div className="icons">
-          <a href="  "></a>
+          <a href="https://www.instagram.com/alongkon_nine/"></a>
           <i className="uil uli-instagram"></i>
         </div>
         <div className="icons">
-          <a href="  "></a>
-          <i className="uil uli-instagram"></i>
+          <a href="https://www.facebook.com/profile.php?id=100023931756822"></a>
+          <i className="uil uli-facebook"></i>
         </div>
         <div className="icons">
-          <a href="  "></a>
+          <a href="https://github.com/nine9031"></a>
           <i className="uil uli-github-alt"></i>
         </div>
       </div>
